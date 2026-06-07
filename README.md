@@ -62,25 +62,20 @@ F233029_SQE_Project/
 ## 🔧 Prerequisites
 Before running the tests, ensure you have the following installed:
 1. **Java JDK 11 or higher**
-2. **Maven** (for building and managing dependencies)
-3. **Git** (for version control)
-4. **Allure** (for reporting)
-5. **TestNG** (for test execution)
-6. **Selenium WebDriver** (for browser automation)
-7. **Cucumber** (for BDD testing)
+2. **Maven**
+3. **Git** for version control
 
-## 🚀 Getting Started
+## 📚 Getting Started
 To get started with the project, follow these steps:
-1. Clone the repository using Git.
-2. Build the project using Maven.
-3. Configure the test environment by setting up the required dependencies.
-4. Run the tests using TestNG.
+1. Clone the repository using `git clone https://github.com/daniyal3029/SQE-PROJECT.git`
+2. Navigate to the project directory using `cd SQE-PROJECT`
+3. Build the project using `mvn clean install`
+4. Run the tests using `mvn test`
 
-## 📊 Contributing
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-1. Fork the repository.
-2. Make your changes and commit them.
-3. Open a pull request.
-
-## 📚 License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+## 📝 Contributing
+To contribute to the project, please follow these guidelines:
+1. Fork the repository using `git fork https://github.com/daniyal3029/SQE-PROJECT.git`
+2. Create a new branch using `git branch <branch-name>`
+3. Make your changes and commit them using `git commit -m "<commit-message>"`
+4. Push your changes to the remote repository using `git push origin <branch-name>`
+5. Create a pull request to merge your changes into the main branch
