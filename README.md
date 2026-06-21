@@ -1,5 +1,5 @@
 # SauceDemo UI Test Automation Framework
-## ✈ Project Overview
+## Project Overview
 This is a comprehensive **Web UI Test Automation Framework** built using **Selenium WebDriver**, **Java**, **Cucumber BDD**, and **TestNG**. The framework tests the [SauceDemo](https://www.saucedemo.com) e-commerce website with **30+ automated test scenarios** covering login, product browsing, shopping cart, checkout, form validation, and UI verification.
 ### Key Features
 ✅ **Page Object Model (POM)** design pattern for maintainability  
@@ -13,7 +13,7 @@ This is a comprehensive **Web UI Test Automation Framework** built using **Selen
 ✅ **WebDriverManager** for automatic browser driver management  
 ✅ **Cross-browser support** (Chrome, Firefox, Edge)
 ---
-## 🔊 Project Structure
+## Project Structure
 ```
 F233029_SQE_Project/
 ├── src/
@@ -59,24 +59,21 @@ F233029_SQE_Project/
 └── README.md                                   # This file
 ```
 ---
-## 🟢 Prerequisites
+## Prerequisites
 Before running the tests, ensure you have the following installed:
 1. **Java JDK 11 or higher**
-2. **Maven 3.8.6 or higher**
+2. **Maven**
 3. **Git** for version control and collaboration
-4. **Allure** for test reporting
-
-## 🟢 Getting Started
-To get started with the project, follow these steps:
-1. Clone the repository: `git clone https://github.com/daniyal3029/SQE-PROJECT.git`
-2. Change into the project directory: `cd SQE-PROJECT`
-3. Build the project: `mvn clean install`
-4. Run the tests: `mvn test`
-
-## 🟢 Contributing
-To contribute to the project, follow these steps:
-1. Fork the repository: `git fork https://github.com/daniyal3029/SQE-PROJECT.git`
-2. Create a new branch: `git checkout -b my-branch`
-3. Make changes and commit: `git add . && git commit -m 'my changes'`
-4. Push changes: `git push origin my-branch`
-5. Create a pull request: `https://github.com/daniyal3029/SQE-PROJECT/pulls`
+## Getting Started
+To get started with this project, follow these steps:
+1. Clone the repository using `git clone https://github.com/daniyal3029/SQE-PROJECT.git`
+2. Navigate to the project directory using `cd SQE-PROJECT`
+3. Build the project using `mvn clean install`
+4. Run the tests using `mvn test`
+## Contributing
+To contribute to this project, please follow these guidelines:
+1. Fork the repository using `git fork https://github.com/daniyal3029/SQE-PROJECT.git`
+2. Create a new branch using `git branch feature/your-feature`
+3. Make your changes and commit them using `git commit -m "Your commit message"`
+4. Push your changes to your fork using `git push origin feature/your-feature`
+5. Create a pull request to the main repository
