@@ -67,11 +67,20 @@ Before running the tests, ensure you have the following installed:
 3. **Git**
 ---
 ## Installation
-To get started, follow these steps:
-1. Clone the repository using `git clone https://github.com/your-repo/SQE-PROJECT.git`
+To get started with the project, follow these steps:
+1. Clone the repository using `git clone https://github.com/your-username/SQE-PROJECT.git`
 2. Navigate to the project directory using `cd SQE-PROJECT`
-3. Install the dependencies using `mvn clean install`
+3. Build the project using `mvn clean install`
 ---
 ## Usage
 To run the tests, use the following command: `mvn test`
 ---
+## Contributing
+Contributions are welcome and appreciated. To contribute, please follow these steps:
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Commit your changes with a meaningful commit message
+4. Open a pull request against the main branch
+---
+## License
+This project is licensed under the MIT License.
